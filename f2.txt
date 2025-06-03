@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sarayu1
 bec1
+=======
+sahfj
+hjfd
+>>>>>>> c6ace5b (f2 is committed)
